@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hey 👋, I'm Michael Marchand!  
   
 
