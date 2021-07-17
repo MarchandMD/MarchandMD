@@ -22,7 +22,7 @@ I’m a self-taught hobbyist enrolled at [Turing](https://turing.edu/) expecting
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [The Odin Project curriculum](https://www.theodinproject.com/dashboard)  
   
@@ -36,11 +36,7 @@ I’m a self-taught hobbyist enrolled at [Turing](https://turing.edu/) expecting
 - ⚡ Fun fact: I really like the [Starship shell](https://starship.rs/) for command line interface  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td></table>  
 
 <br/>  
 
