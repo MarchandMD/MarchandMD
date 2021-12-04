@@ -1,4 +1,4 @@
-## Hey 👋, I'm Michael Marchand!  
+## ohai there 👋! I'm Michael!  
   
 
 <a href="https://github.com/MarchandMD" target="_blank">
