@@ -27,7 +27,7 @@ I’m a self-taught hobbyist enrolled at [Turing](https://turing.edu/) expecting
 - 🔭 I’m currently working on [The Odin Project curriculum](https://www.theodinproject.com/dashboard)  
   
 
-- I occasionally write articles and keep them published [here](https://github.com/MarchandMD/articles)  
+- I occasionally write articles and keep them published [here](https://marchandmd.github.io/)  
   
 
 - ❓ Ask me about anything related to ice hockey  
