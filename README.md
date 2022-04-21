@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a self-taught hobbyist enrolled at [Turing](https://turing.edu/) expecting to start in the near future 2022. Studying programming/Ruby off-and-on since 2018, I'm expecting to complete the full-time back-end engineering program so i may pursue a full-time career as either a member of a team or as a free-lance consultant/developer.   
+I’m a self-taught hobbyist who has been studying programming/Ruby off-and-on since 2018, I'm expecting to complete a full-time back-end engineering program at a bootcamp so i may pursue a full-time career as either a member of a team or as a free-lance consultant/developer.   
   
 
 <br/>  
