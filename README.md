@@ -11,12 +11,9 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
+### Welcome to this profile
 
-
-
-### Glad to see you here!  
-I’m a self-taught hobbyist who has been studying programming/Ruby off-and-on since 2018, I'm expecting to complete a full-time back-end engineering program at a bootcamp so i may pursue a full-time career as either a member of a team or as a free-lance consultant/developer.   
-  
+Go ahead, look around...  
 
 <br/>  
 
@@ -24,16 +21,16 @@ I’m a self-taught hobbyist who has been studying programming/Ruby off-and-on s
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [The Odin Project curriculum](https://www.theodinproject.com/dashboard)  
+- 🔭 Currently working on bowling a perfect game...
   
 
-- I occasionally write articles and keep them published [here](https://marchandmd.github.io/)  
+-  Eggs and bacon belong in a frying pan
   
 
-- ❓ Ask me about anything related to ice hockey  
+- ❓ Ask me about anything related to anything else  
   
 
-- ⚡ Fun fact: I really like the [Starship shell](https://starship.rs/) for command line interface  
+- ⚡ Fun fact: Giraffes have all that neck and no vocal chords
 
 
 </td></table>  
