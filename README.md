@@ -30,7 +30,7 @@ Go ahead, look around...
 - ❓ Ask me about anything related to anything else  
   
 
-- ⚡ Fun fact: Giraffes have all that neck and no vocal chords
+- ⚡ Fun fact: Crows will stand on ant hills and allow ants to crawl upon them; it's called 'Anting'
 
 
 </td></table>  
