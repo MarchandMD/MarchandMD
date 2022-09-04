@@ -21,10 +21,10 @@ Go ahead, look around...
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 Currently working on bowling a perfect game...
+- 🔭 Looking forward to visiting the Ocean soon...
   
 
--  Eggs and bacon belong in a frying pan
+-  I enjoy collecting nickels
   
 
 - ❓ Ask me about anything related to anything else  
