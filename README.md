@@ -30,7 +30,7 @@ Go ahead, look around...
 - ❓ Ask me about anything related to anything else  
   
 
-- ⚡ Fun fact: Crows will stand on ant hills and allow ants to crawl upon them; it's called 'Anting'
+- ⚡ Fun fact: Koala's can sleep for up to 22 hours a day. Lucky.
 
 
 </td></table>  
