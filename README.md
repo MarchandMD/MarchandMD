@@ -18,25 +18,6 @@ Go ahead, look around...
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 Looking forward to visiting the Ocean soon...
-  
-
--  I enjoy collecting nickels
-  
-
-- ❓ Ask me about anything related to anything else  
-  
-
-- ⚡ Fun fact: Koala's can sleep for up to 22 hours a day. Lucky.
-
-
-</td></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
