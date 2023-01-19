@@ -11,9 +11,15 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-### Welcome to this profile
+### Welcome!
 
-Go ahead, look around...  
+With many years of professional experience in mortgage, I bring a lot of soft skills to the table
+
+However, I also bring a lot of grit and determination
+
+Mostly self-taught, I've been refined by instruction from industy professionals at Turing School of Sofware and Design
+
+If this profile or any repo seems promising, feel free to contact me. I'm actively seeking employment and open to conversation: <MichaelDavidMarchand@gmail.com>
 
 <br/>  
 
