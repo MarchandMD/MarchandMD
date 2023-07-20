@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Software Developer | Hockey player | Career-changer</h3>
+<h3 align="center">Software Developer | Hockey player | Career-Changer</h3>
 
-- 📝 I regularly write articles on [Marchandmd.github.io](Marchandmd.github.io)
+- 📝 I occassionally write articles on [Marchandmd.github.io](Marchandmd.github.io)
 
 <h3 align="left">Connect with me:</h3>  
 
