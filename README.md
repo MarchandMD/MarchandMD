@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">Software Developer | Hockey player | Career-Changer</h3>
 
+<p>Cultivating empathy, compassion and conscientiousness is a major driving factor in how I approach my life.</p>
+
 - 📝 I occassionally write articles on [Marchandmd.github.io](http://Marchandmd.github.io)
 
 <h3 align="left">Connect with me:</h3>  
